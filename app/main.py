@@ -14,7 +14,8 @@ app.add_middleware(
     allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"],
-)
+
+
 )
 
 app.include_router(hisob.router, prefix="/hisob", tags=["Hisob-kitob"])
