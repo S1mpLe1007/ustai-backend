@@ -1,6 +1,6 @@
 fastapi
 uvicorn
 reportlab
-pydantic
+pydantic==2.10.6
 groq
 python-multipart
