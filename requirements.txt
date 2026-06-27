@@ -1,4 +1,6 @@
-fastapi==0.111.0
-uvicorn==0.29.0
-reportlab==4.1.0
-pydantic==2.7.1
+fastapi
+uvicorn
+reportlab
+pydantic
+groq
+python-multipart
